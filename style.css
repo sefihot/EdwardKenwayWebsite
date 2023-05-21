@@ -1,0 +1,52 @@
+body{
+    text-align: center;
+    margin:0;
+    
+    background-color:#4cc9f0 ;
+
+}
+h1{
+    font-size: 30px;
+}
+
+#fotoPerfil{
+    width: 400px;
+    max-width: 80% ;
+    border-radius: 100%;
+}
+
+#welcome{
+    background-image: linear-gradient(#f4a261,#e9c46a);
+    padding: 100px 20 px;
+}
+
+#texto{
+    font-size: 20px;
+    width: 90%;
+    margin-left:  auto;
+    margin-right: auto ;
+    text-align: justify;
+}
+#menu{
+    
+    list-style-type: none;
+    position:fixed;
+    width: 100%;
+    padding: 10px;
+    margin:0 ;
+    background-color: #A8F9FF;
+}
+
+.link{
+    display: inline;
+    font-size: 20px;
+}
+
+.link a{
+    text-decoration: none;
+    color: #7692FF;
+padding: 10px;}
+
+.link a:hover{
+    background-color: #8632FF;
+}
